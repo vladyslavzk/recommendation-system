@@ -1,0 +1,13 @@
+setup.py
+ecommerce.egg-info/PKG-INFO
+ecommerce.egg-info/SOURCES.txt
+ecommerce.egg-info/dependency_links.txt
+ecommerce.egg-info/top_level.txt
+src/__init__.py
+src/data/__init__.py
+src/data/basic_cleaning.py
+src/data/feature_engineering.py
+src/models/__init__.py
+src/utils/__init__.py
+tests/__init__.py
+tests/test_feature_engineering.py
